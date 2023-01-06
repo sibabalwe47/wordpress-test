@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wp_db');
+define( 'DB_NAME', 'wp_database');
 
 /** Database username */
 define( 'DB_USER', 'admin');
@@ -29,7 +29,7 @@ define( 'DB_USER', 'admin');
 define( 'DB_PASSWORD', 'admin123');
 
 /** Database hostname */
-define( 'DB_HOST', 'wpwordpressdev.cad9o9sfviki.us-east-1.rds.amazonaws.com');
+define( 'DB_HOST', ' terraform-20230106124853322300000001.cmyqvutmynxt.us-east-1.rds.amazonaws.com');
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8');
